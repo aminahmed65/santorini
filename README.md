@@ -8,7 +8,7 @@ Then use npm to install the server
 ```
 npm install http-server -g
 ```
-Open the terminal, then find where you installed downloaded the site.
+Open the terminal, then find where you downloaded the site.
 Run:
 ```
 http-server
