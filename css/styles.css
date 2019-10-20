@@ -1,0 +1,54 @@
+body{
+    background-color: #e5e5e5;
+}
+/* Carousel */
+#mainCarousel{
+    margin-top: 7px;
+    border: 1px solid #1A1F24;
+}
+.carousel-item img{
+    object-fit: cover;
+}
+
+/* Textbox */
+#textBox{
+    padding: 15px;
+    margin: 20px;
+    background: #F5F5F5;
+    border: 2px solid #868e96;
+    border-radius: 5px;
+}
+#textBox p{
+    color:  #222930;
+}
+
+/* Removing Link Decoration */
+a {
+    text-decoration: none;
+    }
+
+/* Footer */
+#footer{
+    margin-top: 100px;
+    background: #23374d;
+    color: #F5F5F5;
+}
+
+/* Img Gallery */
+.img-thumbnail{
+    margin: 0.6rem;
+    padding: 0.3rem;
+    border: 2px solid #868e96;
+}
+.section{
+    margin: 0 auto;
+}
+.col-sm-4:hover{
+    opacity: 0.6;
+    transition: 0.2s ease-in-out;
+}
+
+/* Nav */
+nav{
+    border-bottom: 2px solid #868e96;
+}
